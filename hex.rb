@@ -32,6 +32,3 @@ class Hexadecimal
     decimal
   end
 end
-
-hex = Hexadecimal.new('7DE')
-puts hex.convert
